@@ -7,3 +7,11 @@
 4. Создайте виджет в формате .html файла командой: `npm run build`
 
 **Готово, в папке `dist` появится файл `index.html`**
+
+### Вид виджета
+#### inactive
+![img.png](readme_assets/widget_inactive.png)
+#### connecting
+![img.png](readme_assets/widget_connecting.png)
+#### active
+![img.png](readme_assets/widget_active.png)
